@@ -1,30 +1,53 @@
-## Hola, soy Luis Lavado 👋
+## 👋 Hola, soy Luis Lavado
 
-¡Bienvenidos a mi GitHub!  
-Soy Ingeniero de Sistemas, con casi 7 años de experiencia en **Desarrollo Web**. Tengo Experiencia comprobada en **Backend**, **Frontend**, **Bases de Datos Relacionales y NoSQL**, integración de colas con RabbitMQ y arquitectura de sistemas escalables. Proactivo, enfocado en buenas prácticas, patrones de diseño y metodologías ágiles. Busco nuevos retos que impulsen la innovación tecnológica.
+¡Bienvenido a mi perfil de GitHub!
+Soy **Ingeniero de Sistemas** con casi **7 años de experiencia en Desarrollo Web Full Stack**.
+Tengo una sólida trayectoria en **Backend**, **Frontend**, y **Bases de Datos** (Relacionales y NoSQL).
 
-## Acerca de mí
-- 📍 **Ubicación**: Trujillo - Perú  
-- 💼 **Puesto/trabajo actual**: Data Analyst en Red de Salud Trujillo  
-- 🌱 **Aprendizaje actual**: Desarrollo de software, desarrollo frontend y herramientas de automatización.
+Me apasiona construir soluciones escalables y eficientes, aplicando **buenas prácticas**, **patrones de diseño, y metodologías ágiles**.
+Busco siempre nuevos retos que impulsen la **innovación tecnológica**.
 
-## :computer Habilidades y Tecnologías
-- **Desarrollo Backend**: Php, TypeScript, Java, Python, Laravel, Yii Framework, Django REST framework, Spring Framework.
+## 🧩 Acerca de mí
+- 📍 **Ubicación**: Trujillo, Perú  
+- 💼 **Rol actual**: Data Analyst en Red de Salud Trujillo
+- 🚀 **Actualmente aprendiendo**: Arquitectura de software, desarrollo frontend avanzado y herramientas de automatización.
+- 💡 **Intereses**: Inteligencia de Negocios, Integración de Sistemas y Ciberseguridad.
 
-- **Desarrollo Frontend**: HTML, Css, JavaScript, Boostrap, Tailwind, JQuery, React, Angular, Vue.js.
+## 💻 Habilidades Técnicas
 
-- **SGBD de Bases de Datos Relacionales**: SQL Server, PostgreSQL, MySQL, MariaDB, Oracle, Sybase Anywhere.  
+### 🔹 Backend
+PHP, TypeScript, Java, Python, Laravel, Yii Framework, Django REST Framework, Spring Framework.
 
-- **SGBD de Bases de Datos NoSQL**: CouchDB, MongoDB.  
+### 🔹 Frontend
+HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, jQuery, React, Angular, Vue.js.
 
-- **Control de Versiones**: Git, GitHub, GitLab, Bitbucket.
-
-- **Otros**: Jira, RabbitMQ, Linux, Script Lab. Postman, Jest (testing), GitHub Copilot, Chat GPT.
+### 🔹 Bases de Datos
+- **Relacionales**: SQL Server, PostgreSQL, MySQL, MariaDB, Oracle, Sybase Anywhere.
+- **NoSQL**: CouchDB, MongoDB.
+ 
+### 🔹 DevOps & Herramientas
+Git, GitHub, GitLab, Bitbucket, Jira, RabbitMQ, Linux, Postman, Jest (Testing), GitHub Copilot, ChatGPT, Docker.
 
 
 ## Contacto
 
 - 💼 **LinkedIn**: [Luis Lavado](https://www.linkedin.com/in/luislavadollaro)  
+- 📧 **Email**: [luis.lavado.llaro@gmail.com](mailto:luis.lavado.llaro@gmail.com) 
+
+
+## 🏗 Proyectos Destacados
+
+🔹 **Sistema de Control de Personal Hospitalario**
+ — Laravel 10 + Livewire 3 + SQL Server
+
+🔹 **Módulo de Registro de Compras y Ventas SUNAT (SIRE)**
+ — Lumen + SQL Server + Jobs Automatizados
+
+🔹 **Gestión de Promociones Comerciales**
+ — React + MUI + Context API
+
+## 📊 Estadísticas de GitHub (opcional visual)
+![Luis Lavado's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisLavado&show_icons=true&theme=tokyonight)
 
 <!--
 
