@@ -1,62 +1,71 @@
-## 👋 Hola, soy Luis Lavado
+# 👋 Hi, I'm Luis Lavado
 
-¡Bienvenido a mi perfil de GitHub!
-Soy **Ingeniero de Sistemas** con casi **7 años de experiencia en Desarrollo Web Full Stack**.
-Tengo una sólida trayectoria en **Backend**, **Frontend**, y **Bases de Datos** (Relacionales y NoSQL).
+> 🌐 Available in [Español](./README_ES.md)
 
-Me apasiona construir soluciones escalables y eficientes, aplicando **buenas prácticas**, **patrones de diseño, y metodologías ágiles**.
-Busco siempre nuevos retos que impulsen la **innovación tecnológica**.
+Welcome to my GitHub profile!  
+I'm a **Systems Engineer** and **Full Stack Developer** with almost **7 years of experience** in **Web Development**, working on **Backend**, **Frontend**, and **Databases** (SQL & NoSQL).  
+I'm passionate about building **scalable**, **secure**, and **efficient** software solutions using clean architecture and best practices.  
+Always open to new challenges that drive **technological innovation** and continuous learning.
 
-## 🧩 Acerca de mí
-- 📍 **Ubicación**: Trujillo, Perú  
-- 💼 **Rol actual**: Data Analyst en Red de Salud Trujillo
-- 🚀 **Actualmente aprendiendo**: Arquitectura de software, desarrollo frontend avanzado y herramientas de automatización.
-- 💡 **Intereses**: Inteligencia de Negocios, Integración de Sistemas y Ciberseguridad.
+---
 
-## 💻 Habilidades Técnicas
+## 🧩 About Me
 
-### 🔹 Backend
-PHP, TypeScript, Java, Python, Laravel, Yii Framework, Django REST Framework, Spring Framework.
+- 📍 **Location:** Trujillo, Peru 🇵🇪  
+- 💼 **Current Role:** Data Analyst at *Red de Salud Trujillo*  
+- 🚀 **Currently Learning:** Software Architecture, Advanced Frontend, and Automation Tools  
+- 💡 **Interests:** Business Intelligence, Systems Integration, and Cybersecurity  
 
-### 🔹 Frontend
-HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, jQuery, React, Angular, Vue.js.
+---
 
-### 🔹 Bases de Datos
-- **Relacionales**: SQL Server, PostgreSQL, MySQL, MariaDB, Oracle, Sybase Anywhere.
-- **NoSQL**: CouchDB, MongoDB.
- 
-### 🔹 DevOps & Herramientas
-Git, GitHub, GitLab, Bitbucket, Jira, RabbitMQ, Linux, Postman, Jest (Testing), GitHub Copilot, ChatGPT, Docker.
+## 💻 Tech Stack
 
+### 🔹 **Backend Development**
+PHP, TypeScript, Java, Python, Laravel, Yii Framework, Django REST Framework, Spring Framework
 
-## Contacto
+### 🔹 **Frontend Development**
+HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, jQuery, React, Angular, Vue.js
 
-- 💼 **LinkedIn**: [Luis Lavado](https://www.linkedin.com/in/luislavadollaro)  
-- 📧 **Email**: [luis.lavado.llaro@gmail.com](mailto:luis.lavado.llaro@gmail.com) 
+### 🔹 **Databases**
+- **Relational:** SQL Server, PostgreSQL, MySQL, MariaDB, Oracle, Sybase Anywhere  
+- **NoSQL:** CouchDB, MongoDB  
 
+### 🔹 **DevOps & Tools**
+Git, GitHub, GitLab, Bitbucket, Jira, RabbitMQ, Linux, Postman, Jest (Testing), GitHub Copilot, ChatGPT
 
-## 🏗 Proyectos Destacados
+---
 
-🔹 **Sistema de Control de Personal Hospitalario**
- — Laravel 10 + Livewire 3 + SQL Server
+## 🧠 Professional Focus
 
-🔹 **Módulo de Registro de Compras y Ventas SUNAT (SIRE)**
- — Lumen + SQL Server + Jobs Automatizados
+- Building RESTful and event-driven APIs  
+- Designing scalable, maintainable architectures  
+- Working with queues (RabbitMQ) and async processes  
+- Applying Agile methodologies & clean code principles  
+- Developing secure and efficient applications  
 
-🔹 **Gestión de Promociones Comerciales**
- — React + MUI + Context API
+---
 
-## 📊 Estadísticas de GitHub (opcional visual)
+## 🏗 Featured Projects
+
+- 🔹 **Hospital Staff Control System** — Laravel 10 + Livewire 3 + SQL Server  
+- 🔹 **SUNAT SIRE Purchases & Sales Module** — Lumen + SQL Server + Scheduled Jobs  
+- 🔹 **Commercial Promotions Platform** — React 18 + MUI + Context API  
+
+---
+
+## 📬 Let's Connect
+
+- 💼 [**LinkedIn - Luis Lavado**](https://www.linkedin.com/in/luislavadollaro)  
+- 🧠 [**GitHub - @LuisLavado**](https://github.com/LuisLavado)  
+- ✉️ **Email:** [luis.lavado.llaro@gmail.com](mailto:luis.lavado.llaro@gmail.com)
+
+---
+
+## ⚡ GitHub Stats
+
 ![Luis Lavado's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisLavado&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisLavado&layout=compact&theme=tokyonight)
 
-<!--
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *"Code with purpose. Build with passion."*
